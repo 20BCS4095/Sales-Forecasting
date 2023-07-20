@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "signup": [
+    {
+      "name": "NITHYA",
+      "email": "nn8836405@gmail.com",
+      "password": "kkkkkkkkkk",
+      "repassword": "kkkkkkkkkk",
+      "id": 4
+    },
+    {
+      "name": "THRISHMA B A",
+      "email": "bathrishma@gmail.com",
+      "password": "mmmmmmmmm",
+      "repassword": "mmmmmmmmm",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "test",
+      "repassword": "test",
+      "id": 6
+    }
+  ],
+  "home": []
+}
